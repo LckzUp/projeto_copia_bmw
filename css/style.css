@@ -168,14 +168,3 @@ nav {
  .list{
 	margin-left: -20px;
  }
- 
-footer{
-	padding: 25px;
-	text-align: auto;
-}
-footer span.copyright{
-	font-size: 90%;
-	line-height: 40px;
-	text-transform: none;
-	font-family: 'montserrat', 'Helvetica Neue', Arial, Helvetica, sans-serif;
-}
