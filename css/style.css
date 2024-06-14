@@ -94,7 +94,7 @@ nav {
  }
 
 /* banner  */
- #main-banner {
+ #main-banner1 {
  	background-color: red;
  	background: url('../img/banner1.jpg') no-repeat;
  	background-size: cover;
@@ -103,6 +103,24 @@ nav {
  	margin-top: 100px;
 	height: 790px;
  }
+ #main-banner2 {
+	background-color: red;
+	background: url('../img/banner2.jpg') no-repeat;
+	background-size: cover;
+	background-position: 0 55%;
+	position: relative;
+	margin-top: 100px;
+   height: 790px;
+}
+#main-banner3 {
+	background-color: red;
+	background: url('../img/banner3.jpg') no-repeat;
+	background-size: cover;
+	background-position: 0 55%;
+	position: relative;
+	margin-top: 100px;
+   height: 790px;
+}
 
  #search-form {
  	position: relative;
